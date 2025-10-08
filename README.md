@@ -17,7 +17,7 @@ The challenge was to build a responsive social profile card that closely matches
 
 ## Live Demo
 
-Check out the live version here: [Live Demo](https://asha-16.github.io/social-profiles/)
+Check out the live version here: [Live Demo](https://asha-16.github.io/social-links-profile-main/)
 
 ---
 
